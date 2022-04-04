@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/John Berdin/FH Campus Wien/MobileAppDev/Projects/MovieApp_FHPA_SH/app/.cxx/RelWithDebInfo/3e1d2634/armeabi-v7a",
+  "command": "C:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/patri/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/patri/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmovieapplication_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\movieapplication.dir\\movieapplication.cpp.o -c \"D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\movieapplication.cpp\"",
+  "file": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\movieapplication.cpp"
+}
+]

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-3\\041d7a1786e0da9bc49304ae0444f27b\\transformed\\core-1.8.0-alpha03\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "854",
+                        "endColumns": "100",
+                        "endOffsets": "950"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-3\\b242427df98ccd48a89fd12cc8e98ea7\\transformed\\ui-1.0.3\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,345,419,503,581,656,721,786,854,922",
+                        "endColumns": "76,75,86,73,83,77,74,64,64,67,67,115",
+                        "endOffsets": "177,253,340,414,498,576,651,716,781,849,917,1033"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,258,345,419,503,581,656,721,786,955,1023",
+                        "endColumns": "76,75,86,73,83,77,74,64,64,67,67,115",
+                        "endOffsets": "177,253,340,414,498,576,651,716,781,849,1018,1134"
+                    }
+                }
+            ]
+        }
+    ]
+}

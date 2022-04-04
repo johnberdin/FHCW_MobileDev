@@ -1,0 +1,3 @@
+D:/John Berdin/FH Campus Wien/MobileAppDev/Projects/MovieApp_FHPA_SH/app/.cxx/RelWithDebInfo/3e1d2634/x86/CMakeFiles/movieapplication.dir
+D:/John Berdin/FH Campus Wien/MobileAppDev/Projects/MovieApp_FHPA_SH/app/.cxx/RelWithDebInfo/3e1d2634/x86/CMakeFiles/edit_cache.dir
+D:/John Berdin/FH Campus Wien/MobileAppDev/Projects/MovieApp_FHPA_SH/app/.cxx/RelWithDebInfo/3e1d2634/x86/CMakeFiles/rebuild_cache.dir

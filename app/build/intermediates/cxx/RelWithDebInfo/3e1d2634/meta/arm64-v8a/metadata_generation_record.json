@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -450502647
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2048854985
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -709551321
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -353598075
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -973523401
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\u0027",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -395906001
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\u0027",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 159802171
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\3e1d2634\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\3e1d2634\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 863389626
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\patri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\3e1d2634\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\3e1d2634\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\n-BD:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1602385351
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1939440495
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1285869652
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\.cxx\\RelWithDebInfo\\3e1d2634\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -648409749
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 652203432
+  }
+]

@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\John Berdin\FH Campus Wien\MobileAppDev\Projects\MovieApp_FHPA_SH\app\.cxx\Debug\482u3p3j\x86_64'
+[1/2] Building CXX object CMakeFiles/movieapplication.dir/movieapplication.cpp.o
+[2/2] Linking CXX shared library "D:\John Berdin\FH Campus Wien\MobileAppDev\Projects\MovieApp_FHPA_SH\app\build\intermediates\cxx\Debug\482u3p3j\obj\x86_64\libmovieapplication.so"

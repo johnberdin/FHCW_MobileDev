@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\John Berdin\\FH Campus Wien\\MobileAppDev\\Projects\\MovieApp_FHPA_SH\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-3\\b242427df98ccd48a89fd12cc8e98ea7\\transformed\\ui-1.0.3\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,282,387,469,575,668,751,819,887,963,1033",
+                        "endColumns": "94,81,104,81,105,92,82,67,67,75,69,123",
+                        "endOffsets": "195,277,382,464,570,663,746,814,882,958,1028,1152"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,282,387,469,575,668,751,819,887,1064,1134",
+                        "endColumns": "94,81,104,81,105,92,82,67,67,75,69,123",
+                        "endOffsets": "195,277,382,464,570,663,746,814,882,958,1129,1253"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\patri\\.gradle\\caches\\transforms-3\\041d7a1786e0da9bc49304ae0444f27b\\transformed\\core-1.8.0-alpha03\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "963",
+                        "endColumns": "100",
+                        "endOffsets": "1059"
+                    }
+                }
+            ]
+        }
+    ]
+}
